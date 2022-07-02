@@ -4,7 +4,6 @@ This is a program I wrote to learn more about client/server networking and about
 The program starts by reserving a port on your computer and binding a socket to the port. From there the socket is put in listening mode and once you run the
 client side of the program it establishes the connection witht he client and sends a message from the server to the client and then closes the connection.
 
-{Provide a link to your YouTube demonstration.
 
 [Software Demo Video](https://youtu.be/Jo1PW-RSW7c)
 
