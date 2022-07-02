@@ -21,12 +21,10 @@ The only message sent is from the server to the client upon connecting and it se
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Tutorials Point](https://www.tutorialspoint.com/python/python_networking.htm)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/python-network-programming/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * More communication between client/server instead of just a thank you message
 * Add a small menu to recieve different messages from server
